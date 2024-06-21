@@ -1,0 +1,6 @@
+
+# Ignore some extensions...
+*.o
+.gch
+*.vscode*
+src_old/*

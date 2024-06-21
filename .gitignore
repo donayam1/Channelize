@@ -1,0 +1,15 @@
+enclave.signed.so 
+enclave.so 
+app
+*_t*
+*_u*
+*.o
+Data/*
+IntervalData/*
+__pycache__
+*.txt
+Helper/plot*
+Helper/*.png
+final_result*/*
+.vscode/*
+*.asm
